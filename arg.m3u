@@ -126,7 +126,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9B3H8vfrbLNJxxqvuUQlNEKkNjKDe7ezODA&s" group-title="NACIONALES", BRAVO TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
@@ -138,7 +138,7 @@ http://143.0.67.77:8000/play/a01m/index.m3u8
 http://186.125.218.199:13000/play/a06e/index.m3u8 
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
-https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
+https://unlimited-ar.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="NACIONALES", AUNAR
 http://200.55.244.75:8000/play/a0ed/index.m3u8
