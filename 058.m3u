@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="-", 222
-https://ice3.edge-apps.net/joy-radios/am870/playlist.m3u8
+#EXTINF:-1 group-title="-", joy
+https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
