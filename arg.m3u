@@ -137,7 +137,7 @@ http://143.0.67.77:8000/play/a01m/index.m3u8
 http://186.125.218.199:13000/play/a06e/index.m3u8 
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
-https://unlimited-ar.dps.live/carastv/carastv.smil/playlist.m3u8
+https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="NACIONALES", AUNAR
 http://200.55.244.75:8000/play/a0ed/index.m3u8
@@ -261,7 +261,7 @@ http://186.125.218.199:13000/play/a01p/index.m3u8
 http://143.0.67.77:8000/play/a01s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
-https://unlimited-ar.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="NOTICIAS NACIONALES", EL DESTAPE TV
 http://181.209.96.156:8000/play/a02d/index.m3u8
