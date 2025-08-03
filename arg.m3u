@@ -44,13 +44,7 @@ http://179.63.6.17:9000/play/a08e
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
-http://179.51.136.19:8000/play/a112/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
-http://38.211.242.128:8001/play/a05h/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
-http://38.211.242.128:8001/play/a09s/index.m3u8
+http://138.99.179.229:8000/play/a0se/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
 http://38.211.242.128:8001/play/a05g/index.m3u8
