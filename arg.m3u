@@ -1044,7 +1044,7 @@ https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/EL_NUEVE.mpd
 https://bvclive1.boldmss.com/CANAL_7/CANAL_7.isml/CANAL_7.mpd
 
 #EXTINF:-1 tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="PCIA BS AS", BVC BAHIA BLANCA
-https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8?dvr_window_length=60
+https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.mpd
 
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
