@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 ,HBO
-https://access.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1 ,HBO 2
-https://access.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-#EXTINF:-1 ,HBO +
-https://access.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-#EXTINF:-1 ,HBO Extreme
-https://access.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
-#EXTINF:-1 ,HBO Family
-https://access.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
-#EXTINF:-1 ,HBO Mundi
-https://access.cdn.rcs.net.ar/mnp/hbomund_hls/playlist.m3u8
+#EXTINF:-1 , tyc 
+https://raw.githubusercontent.com/junin128/ssiptvarg/refs/heads/main/prueba.php
