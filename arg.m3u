@@ -107,7 +107,7 @@ http://190.104.67.111:234/play/a06z/index.m3u8
 https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TV PUBLICA  
-https://val02.ride.com.ar/tvmia/an04/playlist.m3u8
+http://45.5.150.5:8887/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
 http://138.121.114.50:8000/play/a09q/index.m3u8
