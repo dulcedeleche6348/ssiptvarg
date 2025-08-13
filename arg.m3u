@@ -134,7 +134,7 @@ http://181.10.181.101:15001/play/a07c/index.m3u8
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVyU_QZarytEVV2Zf03KmfDRZRLMND_tpnwg&s" group-title="NACIONALES", AUNAR
-http://200.55.244.75:8000/play/a0ed/index.m3u8
+http://45.5.150.5:8887/play/a0t2/index.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="NACIONALES", TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
@@ -210,7 +210,7 @@ http://181.10.181.101:15001/play/a07u/index.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="NACIONALES", TEC TV
-http://181.209.96.156:8000/play/a024/index.m3u8
+http://45.5.150.5:8887/play/tecnopolis/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
@@ -258,7 +258,7 @@ http://143.0.67.77:8000/play/a01s/index.m3u8
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="NOTICIAS NACIONALES", EL DESTAPE TV
-http://181.209.96.156:8000/play/a02d/index.m3u8
+http://45.5.150.5:8887/play/a0t6/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
 http://138.121.114.50:8000/play/a02f/index.m3u8
