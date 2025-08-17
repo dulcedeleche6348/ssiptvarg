@@ -1179,6 +1179,9 @@ https://videostream.shockmedia.com.ar:19360/playatv/playatv.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png" group-title="PCIA BS AS", CABLETEL CANAL 4 DE ZARATE
 https://play.nexolife.com/cabletel/12d8f003f30f0dec5bca10ab7473dd7b.sdp/chunks_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7L7y5bellgBfUC4JoZzF9nMfB30uTyPXtpxWqmHT933Xp9mnGznNFYK0apcyLH1N9ZkVrM9jUVTQp-vAMeqH3ix3lGPAOllOlyINPaafeQiap2xLQL7uJZzqLEqfIxaLvsYhpVgAgi28nkWAw3jcQkI-AYtWRx_gqNizA8lu3PrS_XxqMxa3MxQwJQ68/s200-rw/LOGO-TVO-DEFINITIVO-COMPLETO.png.b1764ade82615be7d8445ed73dd575d7.png" group-title="PCIA BS AS", TV ONLINE SALADILLO
+https://5f700d5b2c46f.streamlock.net/tvonline/tvonline/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2503/CH_LOGO/800/542/0/0/18862298077160.png" group-title="PCIA BS AS", DBosco Television
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/C7SAAD/output.mpd
 
