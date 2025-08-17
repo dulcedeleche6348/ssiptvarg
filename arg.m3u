@@ -713,7 +713,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", ABC PARAGUAY
-http://181.78.27.128:8000/play/a05r/index.m3u8
+http://138.59.227.28:8000/play/a0d5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2012/01/31/120131193926_hispantv_logo_304x171__nocredit.jpg" group-title="NOTICIAS INTERNACIONAL", HISPAN TV
 https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
