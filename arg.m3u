@@ -686,7 +686,7 @@ http://200.60.124.19:29000/play/a0jc/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR 
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
+http://38.41.8.1:8000/play/a03l
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="NOTICIAS INTERNACIONAL", France 24 ESPAÑOL
 http://200.229.147.210:8000/play/a039/index.m3u8
