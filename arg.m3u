@@ -820,23 +820,11 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lrtv.jaranetwork.com/sites/default/files/styles/poster/public/logos/monitv.jpg?itok=kFtbKZRm" group-title="INFANTIL", MONI TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
-#EXTINF:-1 tvg-logo="https://d0cdb7b2de.cbaul-cdnwnd.com/9c7dbb7eba389216910092fa77cc9fd0/200000019-8775e87760/450/GGGGGGGG.webp?ph=d0cdb7b2de" group-title="ANIME - TEEN", TALTAL
-https://glb.bozztv.com/glb/ssh101/taltal/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.gogoplaytv.com/images/logo%20gogoplaytv.svg?crc=3783335031" group-title="ANIME - TEEN", GOGO PLAY
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.gogoplaytv.com/images/logo%20gogoplaytv.svg?crc=3783335031" group-title="ANIME - TEEN", GOGO PLAY
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.gogoplaytv.com/images/logo%20gogoplaytv.svg?crc=3783335031" group-title="CINE", MIX BOLIVIA TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png" group-title="ANIME - TEEN", ANGRY BIRDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png" group-title="ANIME - TEEN", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="ANIME - TEEN", AniRetro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 channel-id="pluto-613237a1c9e0db0007a91350" tvg-id="613237a1c9e0db0007a91350" tvg-logo="https://images.pluto.tv/channels/613237a1c9e0db0007a91350/colorLogoPNG.png" tvg-chno="1052" group-title="ENTRETENIMIENTO" , Telefe
 https://stitcher.pluto.tv/stitch/hls/channel/613237a1c9e0db0007a91350/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -873,13 +861,6 @@ https://glb.bozztv.com/glb/ssh101/bigchannel/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://boxbrazil.tv.br/assets/images/pages/boxKids/images/imgTitle.png" group-title="INFANTIL", BOX KIDS TV
 https://stmvideo3.livecastv.com/kidsbox/kidsbox/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/1762691601661296640/ZqsM2g3Z_400x400.jpg" group-title="ANIME - TEEN", TOONIZAKI
-https://mitv.zplay.cl/NinjaZ/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1335_VariedTV.png" group-title="ANIME - TEEN", VariedTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44C048j/Logo-Anime-Onegai-TV.png" group-title="ANIME - TEEN", Canal Anime Onegai 1 HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
@@ -2675,7 +2656,6 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png",ROMANCE CHANNEL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://cdn.battlerite.com/press/2018/04/10093025/tales_of_horror_logo_highres.png" group-title="CINE",CINE DE HORROR
 https://amg02724-amg02724c2-runtime-latam-2586.playouts.now.amagi.tv/playlist/amg02724-somosfast-cinedehorror-runtimelatam/playlist.m3u8
 
@@ -2807,15 +2787,6 @@ https://cloudvideo.servers10.com:8081/8096/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/b22f37_db459382223d48f092d71151178a3797~mv2.png/v1/crop/x_0,y_108,w_1080,h_846/fill/w_1080,h_846,al_c,q_90,enc_auto/b22f37_db459382223d48f092d71151178a3797~mv2.png" group-title="INFANTIL", Latino Kids TV 
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png" group-title="ANIME - TEEN", Energeek
-https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="ANIME - TEEN", Energeek FAN TV
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="ANIME - TEEN", Energeek Retro TV
-https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8?WebM3UCL
-
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png" group-title="INFANTIL", Opinionsur Niños
 https://fl1002.bozztv.com/ssh101/opinionsurn/tracks-v1a1/mono.m3u8?WebM3UCL
 
@@ -2825,17 +2796,8 @@ https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w1199347001.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logotipo_Color_2_NTV%28Chile%29.svg/800px-Logotipo_Color_2_NTV%28Chile%29.svg.png" group-title="INFANTIL", NTV
 https://marine2.miplay.cl/ntv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://video-images.vice.com/articles/5bbf5690dc934f000621fc4e/lede/1539266929600-LocomotionGrande.jpeg?crop=0.8888xw:0.9984xh;0.06xw,0.0016xh&resize=500:*" group-title="ANIME - TEEN", locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xKxTMVPs7wMxCv1BjkVSAJBTHP4LqnQREw&s" group-title="ANIME - TEEN", KANADE
-https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF
-
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2477-294x165-FFFFFF.jpg" group-title="INFANTIL", DIOS TV VE KIDS
 https://s.emisoras.tv:8081/diostevekids/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/580b57fcd9996e24bc43c515.png" group-title="ANIME - TEEN", ANGRY BIRDS
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WKyB2LbJJb2-5cfvdvW3OdsAP_TXcWdPnudv-zCNwW9G6Flse8aAMFii79MDIO2VJZA" group-title="INFANTIL", TOON GOGGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
@@ -3401,9 +3363,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u
 
 #EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" tvg-chno="1251" group-title="ANIME - TEEN", * Anime
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 channel-id="pluto-5e6a4d875d7ccf0007cc2cf1" tvg-id="5e6a4d875d7ccf0007cc2cf1" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png" tvg-chno="1254" group-title="ANIME - TEEN", * Animé Acción
-https://stitcher.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 #EXTINF:-1 channel-id="pluto-5ee92e72fb286e0007285fec" tvg-id="5ee92e72fb286e0007285fec" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" tvg-chno="1259" group-title="ANIME - TEEN",  Naruto
 https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
