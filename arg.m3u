@@ -779,19 +779,19 @@ http://201.217.246.177:8000/play/a02a/index.m3u8
 http://201.217.246.177:8000/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Premiere
-http://190.60.40.37:8001/play/a097
+http://45.5.150.5:8887/play/UNIVERSALPREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Cinema
-http://190.60.40.37:8001/play/a0ao
+http://45.5.150.5:8887/play/UNIVERSALCRIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Comedy
-http://190.60.40.37:8001/play/a09b
+http://45.5.150.5:8887/play/UNIVERSALCOMEDY/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Crime
-http://190.60.40.37:8001/play/a09a
+http://45.5.150.5:8887/play/UNIVERSALCRIME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Reality
-http://190.60.40.37:8001/play/a099
+http://45.5.150.5:8887/play/a0te/index.m3u8
 
 
 
