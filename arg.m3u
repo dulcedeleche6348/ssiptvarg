@@ -782,7 +782,7 @@ http://201.217.246.177:8000/play/a02c/index.m3u8
 http://45.5.150.5:8887/play/UNIVERSALPREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Cinema
-http://45.5.150.5:8887/play/UNIVERSALCRIME/index.m3u8
+http://45.5.150.5:8887/play/UNIVERSALPREMIERE2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Comedy
 http://45.5.150.5:8887/play/UNIVERSALCOMEDY/index.m3u8
