@@ -1010,6 +1010,8 @@ https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----ON.png" group-title="RADIO-AMBA",  ON RADIO WEB
 https://tv.streamcasthd.com:3322/live/onradiolive.m3u8
 
@@ -1090,6 +1092,9 @@ https://nd106.republicaservers.com:4433/hls/c7423/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLEIL.png" group-title="RADIO-AMBA", Soleil 104.7 FM San Miguel
 https://nd106.republicaservers.com:4433/hls/c7546/index.m3u8
+
+#EXTINF:-1 tvg-logo="h" group-title="AMBA",  GP 88.9 FM San Miguel
+https://nd106.republicaservers.com:4433/hls/c7328/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
