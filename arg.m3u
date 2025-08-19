@@ -1459,6 +1459,9 @@ https://videohd.live:19360/8046/8046.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILBOCHA.png" group-title="CHUBUT", La Bocha 99.9 FM Puerto Madryn
 https://inliveserver.com:1936/12040/12040/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILBOCHA.png" group-title="CHUBUT", Paraiso 42 95.5 FM El Hoyo
+https://inliveserver.com:1936/12048/12048/playlist.m3u8
+
 
 
 
@@ -2373,6 +2376,9 @@ https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/c
 
 #EXTINF:-1 tvg-logo="" group-title="SANTA FE", CANAL 8 ROSARIO
 https://stmv4.voxtvhd.com.br/canal8ros/canal8ros/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SANTA FE", CISC Canal 4 San CristobaL
+https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" group-title="SANTA FE", POWER MAX 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
