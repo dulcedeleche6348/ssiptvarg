@@ -8,10 +8,10 @@ http://181.10.181.101:15001/play/a06x/index.m3u8
 http://201.217.246.177:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-http://138.121.114.50:8000/play/a02s/index.m3u8
+http://143.0.67.77:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
-http://138.121.114.50:8000/play/a0a2/index.m3u8
+http://143.0.67.77:8000/play/a05a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
 http://181.10.181.101:15001/play/a098/index.m3u8
@@ -65,10 +65,10 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
-http://138.121.114.50:8000/play/a078/index.m3u8
+http://143.0.67.77:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
-http://138.121.114.50:8000/play/a02u/index.m3u8
+http://143.0.67.77:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
 http://186.148.196.82:8001/play/a00p
@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/americ
 http://45.5.150.5:8887/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
-http://138.121.114.50:8000/play/a09q/index.m3u8
+http://143.0.67.77:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -245,10 +245,10 @@ http://181.10.181.101:15001/play/a05x/index.m3u8
 http://201.217.246.177:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="NOTICIAS NACIONALES", A24
-http://138.121.114.50:8000/play/a01o/index.m3u8
+http://143.0.67.77:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
-http://138.121.114.50:8000/play/a0a0/index.m3u8
+http://143.0.67.77:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
 http://181.10.181.101:15001/play/a05v/index.m3u8
@@ -263,7 +263,7 @@ https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 http://45.5.150.5:8887/play/a0t6/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
-http://138.121.114.50:8000/play/a02f/index.m3u8
+http://143.0.67.77:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="NOTICIAS NACIONALES", CHACRA TV
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -283,8 +283,7 @@ https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI710.png" group-title="NOTICIAS NACIONALES", EL OBSERVADOR
 https://cs1.xcast.com.br/7868/7868/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXuqAKKJp4DihyAf2mJvBuuHIWXo6aTuKv0g&s" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
-http://138.121.114.50:8000/play/a0dg/index.m3u8
+
 
 
 
