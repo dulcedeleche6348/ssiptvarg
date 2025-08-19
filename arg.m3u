@@ -2334,7 +2334,7 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 https://nd106.republicaservers.com:4433/hls/c7091/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1022/CH_LOGO/800/542/0/0/31560740072137.png" group-title="SANTA CRUZ", Cable 10 Río Gallegos
-https://smt-usr-edge01.sensa.com.ar/output/ARR/Rio_GallegosD/output.mpd
+https://smt-usr-edge01.sensa.com.ar/output/ARR/Rio_GallegosD/output.mpd 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000677072657/5258433abf9a1b4799167bd2c8506dbe_400x400.jpeg" group-title="SANTA CRUZ", RADIO MEDIATICA 98.9 FM - RIO GALLEGOS
 https://streamlov.alsolnet.com/radiomediaticatv/live/playlist.m3u8
