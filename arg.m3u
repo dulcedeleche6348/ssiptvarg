@@ -235,8 +235,8 @@ https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png/320px-IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png" group-title="NOTICIAS NACIONALES", IP NOTICIAS
-http://access.cdn.rcs.net.ar/mnp/ip/output.mpd
+#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
 http://181.10.181.101:15001/play/a05x/index.m3u8
@@ -255,9 +255,6 @@ http://181.10.181.101:15001/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +    
 http://143.0.67.77:8000/play/a01s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
-https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="NOTICIAS NACIONALES", EL DESTAPE TV
 http://45.5.150.5:8887/play/a0t6/index.m3u8
