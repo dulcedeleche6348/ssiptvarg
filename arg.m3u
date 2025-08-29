@@ -883,9 +883,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="AMBA", PROVINCIAL TV
-https://smcdn03.trimi.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzU2NTIwMDk5Iiwic2lwIjoiMjAwLjMuMTEzLjciLCJwYXRoIjoiL2xpdmUvc20tbGl2ZS9QUk9WSU5DSUFML3NhX2xpdmVfaGxzLyIsInNlc3Npb25fY2RuX2lkIjoiYmE3NzVmZTViOWY2ODNlZCIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjE2LjYyLjIyMiIsImF1ZCI6IjEiLCJzb3VyY2VzIjpbMV19.J0jPWDuJ8TSnctB7b1i32NBZ-R3SF6x6HM77et61OPDAUjHLPvTnVHBu9djfLobSvLgJmRfAhTjcbQY-ErNOfQ==/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL-mp4a_108000_spa=20000.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1017835856411971584/Q2dVZVUA_400x400.jpg" group-title="AMBA", PROVINCIAL TV
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="AMBA", SANTA MARIA
