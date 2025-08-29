@@ -8,10 +8,10 @@ http://181.10.181.101:15001/play/a06x/index.m3u8
 http://201.217.246.177:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
-http://186.125.218.199:13000/play/a02s/index.m3u8
+http://190.104.67.230:234/play/a06x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
-http://186.125.218.199:13000/play/a05a/index.m3u8
+http://190.104.67.230:234/play/a099/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
 http://181.10.181.101:15001/play/a098/index.m3u8
@@ -50,10 +50,10 @@ http://138.99.179.229:8000/play/a0se/index.m3u8
 http://179.63.6.17:9000/play/a08e
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 1
-http://186.125.218.199:13000/play/a078/index.m3u8  
+http://190.104.67.230:234/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
-http://186.125.218.199:13000/play/a0bc/index.m3u8
+http://190.104.67.230:234/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
 http://201.217.246.177:8000/play/a078/index.m3u8
@@ -122,7 +122,7 @@ https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
-http://186.125.218.199:13000/play/a01m/index.m3u8
+http://143.0.67.77:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
 http://181.10.181.101:15001/play/a07c/index.m3u8
@@ -1683,7 +1683,7 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSp8dzUU2dG_DdZJblUl8ypI-U0Njq8x9hw&s" group-title="CORRIENTES", ACV MONTE CASEROS
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/streamavc/playlist.m3u8
+https://giatv.bozztv.com/giatv/giatv-digimediosstreamavc/digimediosstreamavc/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.yapeyucablecolor.com.ar/img/BANNER.png" group-title="CORRIENTES", Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
@@ -1691,26 +1691,11 @@ https://videohd.live:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="CORRIENTES", 5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/sancosmeonline.com.ar/wp-content/uploads/2020/08/Canal8.jpeg?w=796&ssl=1" group-title="CORRIENTES",CANAL 8 SAN COSME
-http://181.13.173.86:8000/play/a0aw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeobVZSUSlYfI0H8f9RkyWSbyRYwSURmJawqSVK65z2lW9yGdwe_ftCN8eGbwSQ6D87nsL9hy5xYu9Wgs442wtSHmF7kufYK31yb2vb-HdJhyLD-xW2NDzi5xCruhVuJ7lGtiO6vYPrvUF6ne78v2b4L-ccGsY4jJYvWaf_duyosiFvf28uyDXcVozh54/s445/Screenshot_2024-02-08_at_15-56-57_Litoral_Cable_Visi%C3%B3n-removebg-preview.png" group-title="CORRIENTES", LITORAL CABLEVISION LA CRUZ
-https://videohd.live:19360/8018/8018.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Chamame-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="CORRIENTES", CHAMAME TV 
-https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__ROPGPVBMhZtHuunBOtlXI_fT5kcm4H1whDW3rhxoHdIdW0bo4h3PFsUs9z8gv7CPqk&usqp=CAU" group-title="CORRIENTES", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="CORRIENTES", TELEDIEZ PASO DE LOS LIBRES
-https://videohd.live:19360/8020/8020.m3u8
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
-https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmrockandpopgoya.com.ar/web/wp-content/uploads/2022/03/sin-logo-24-43-sin.png" group-title="CORRIENTES", Rock & Pop 102.5 FM Goya
 https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
@@ -1726,9 +1711,6 @@ https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/tOutn2AAanKRwVvKcECFHxcvIiTa1rbC59v2yGt_h3RBBkQj06GbIpFSnl3a4wFb14GkcZke3g=s176-c-k-c0x00ffffff-no-rj-mo" group-title="ENTRE RIOS", Somos Gualeguaychu
-https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
 https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
@@ -1736,16 +1718,13 @@ https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s160-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
-http://181.13.173.86:8000/play/a09s/index.m3u8
+http://181.78.49.179:8000/play/a022
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
 https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JNodbQCAQfgECDfw5TwZt2H7F-dzLs81Ta7BEnECbxaQLJNQVLEbWXswRVg3ApwI9vRORZSaJIc=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
-http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JNodbQCAQfgECDfw5TwZt2H7F-dzLs81Ta7BEnECbxaQLJNQVLEbWXswRVg3ApwI9vRORZSaJIc=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
-https://proxystream.iteltv.com.ar/output/iteltv/track_2_4500/playlist.m3u8
+https://proxystream.iteltv.com.ar/output/iteltv/track_0_3700/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="ENTRE RIOS", CANAL 2 GUALEGUAY ENTRE RIOS
 https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
@@ -1765,11 +1744,8 @@ https://videostream.shockmedia.com.ar:19360/genesiscaseros/genesiscaseros.m3u8
 #EXTINF:-1 tvg-logo="https://multimediosmariagrande.com/multim.png" group-title="ENTRE RIOS", MULTIMEDIO MARIA GRANDE
 https://panel.host-live.com:19360/multimedioscam/multimedioscam.m3u8
 
-#EXTINF:-1 tvg-logo="https://canaldelasaldeas.com.ar/wp-content/uploads/2022/09/cropped-logocanalaldeas5.jpeg" group-title="ENTRE RIOS", CANAL 8 ALDEA BRASILEÑA
-https://cs3.voxhd.com.br/11890/11890/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Zm0uYnJhc2lsZXJhX3NjcmVlbl8wXzE1OTEwNjA4MzFfMDkw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTRE RIOS", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
-https://cs1.xcast.com.br/7662/7662/playlist.m3u8
+https://cs3.voxhd.com.br/11398/11398/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pk5swcxrnuk2.png" group-title="ENTRE RIOS", ORO VERDE FM 104.5  
 https://cs3.voxhd.com.br/11096/11096/playlist.m3u8
