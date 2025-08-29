@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/mortal251/archivos_m3u8/refs/heads/main/americ
 http://45.5.150.5:8887/play/a0ai/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
-http://186.125.218.199:13000/play/a04h/index.m3u8
+http://190.104.67.230:234/play/a08k/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
@@ -242,22 +242,22 @@ http://181.10.181.101:15001/play/a05x/index.m3u8
 http://201.217.246.177:8000/play/a01q/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="NOTICIAS NACIONALES", A24
-http://186.125.218.199:13000/play/a01o/index.m3u8
+http://190.104.67.230:234/play/a05u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
-http://186.125.218.199:13000/play/a058/index.m3u8
+http://190.104.67.230:234/play/a097/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
 http://181.10.181.101:15001/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +    
-http://186.125.218.199:13000/play/a01s/index.m3u8
+http://190.104.67.230:234/play/a05y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIELDEST.png"  group-title="NOTICIAS NACIONALES", EL DESTAPE TV
 http://45.5.150.5:8887/play/a0t6/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
-http://186.125.218.199:13000/play/a02f/index.m3u8
+http://190.104.67.230:234/play/a06k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="NOTICIAS NACIONALES", CHACRA TV
 https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
@@ -274,8 +274,7 @@ https://smt-usr-edge02.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LS10.png" group-title="NOTICIAS NACIONALES", DEL PLATA
 https://vivo.solumedia.com:19360/c3mvivo/c3mvivo.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI710.png" group-title="NOTICIAS NACIONALES", EL OBSERVADOR
-https://cs1.xcast.com.br/7868/7868/playlist.m3u8
+
 
 
 
